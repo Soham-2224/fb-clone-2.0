@@ -65,6 +65,7 @@ function InputBox() {
                 <Image
                     className="rounded-full"
                     src={session.user.image}
+                    alt=""
                     width={40}
                     height={40}
                     layout="fixed"

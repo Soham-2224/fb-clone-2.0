@@ -6,6 +6,7 @@ function Login() {
         <div className="grid place-items-center ">
             <Image src="https://links.papareact.com/t4i"
                 height={400}
+                alt=""
                 width={400}
                 objectFit="contain"
             />
